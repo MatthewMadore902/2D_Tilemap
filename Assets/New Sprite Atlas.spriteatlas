@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: b7c4278f5db97ce4aaa5647059da6520, type: 3}
+    totalSpriteSurfaceArea: 35840
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 8082083277301628709, guid: b7c4278f5db97ce4aaa5647059da6520, type: 3}
+  - {fileID: 8886424774559192063, guid: b7c4278f5db97ce4aaa5647059da6520, type: 3}
+  - {fileID: -9154358723676631336, guid: b7c4278f5db97ce4aaa5647059da6520, type: 3}
+  - {fileID: 2992614105074212708, guid: b7c4278f5db97ce4aaa5647059da6520, type: 3}
+  - {fileID: 3214451590599513440, guid: b7c4278f5db97ce4aaa5647059da6520, type: 3}
+  - {fileID: 3800167130800454444, guid: b7c4278f5db97ce4aaa5647059da6520, type: 3}
+  - {fileID: 723241447313730984, guid: b7c4278f5db97ce4aaa5647059da6520, type: 3}
+  - {fileID: 6927809908076787402, guid: b7c4278f5db97ce4aaa5647059da6520, type: 3}
+  - {fileID: -2667483600414770293, guid: b7c4278f5db97ce4aaa5647059da6520, type: 3}
+  - {fileID: -2515431156681684044, guid: b7c4278f5db97ce4aaa5647059da6520, type: 3}
+  - {fileID: -4295041012556432509, guid: b7c4278f5db97ce4aaa5647059da6520, type: 3}
+  - {fileID: -7741188553787961803, guid: b7c4278f5db97ce4aaa5647059da6520, type: 3}
+  - {fileID: 6164803347718376529, guid: b7c4278f5db97ce4aaa5647059da6520, type: 3}
+  - {fileID: -4850362625987583753, guid: b7c4278f5db97ce4aaa5647059da6520, type: 3}
+  - {fileID: -5489662188471790584, guid: b7c4278f5db97ce4aaa5647059da6520, type: 3}
+  - {fileID: -5895249578308929047, guid: b7c4278f5db97ce4aaa5647059da6520, type: 3}
+  - {fileID: -4348337421283320943, guid: b7c4278f5db97ce4aaa5647059da6520, type: 3}
+  - {fileID: 8123314700587324790, guid: b7c4278f5db97ce4aaa5647059da6520, type: 3}
+  - {fileID: 8249314873805843297, guid: b7c4278f5db97ce4aaa5647059da6520, type: 3}
+  - {fileID: 1687774142192461650, guid: b7c4278f5db97ce4aaa5647059da6520, type: 3}
+  - {fileID: 8782823372585727688, guid: b7c4278f5db97ce4aaa5647059da6520, type: 3}
+  - {fileID: -7570480396124342257, guid: b7c4278f5db97ce4aaa5647059da6520, type: 3}
+  - {fileID: -1369744216669621359, guid: b7c4278f5db97ce4aaa5647059da6520, type: 3}
+  - {fileID: 1288167275435046620, guid: b7c4278f5db97ce4aaa5647059da6520, type: 3}
+  - {fileID: 6622018948318359271, guid: b7c4278f5db97ce4aaa5647059da6520, type: 3}
+  - {fileID: 6674186850455449447, guid: b7c4278f5db97ce4aaa5647059da6520, type: 3}
+  - {fileID: -1430930172179480211, guid: b7c4278f5db97ce4aaa5647059da6520, type: 3}
+  - {fileID: -5984214492293302901, guid: b7c4278f5db97ce4aaa5647059da6520, type: 3}
+  - {fileID: 8719315318273257210, guid: b7c4278f5db97ce4aaa5647059da6520, type: 3}
+  - {fileID: 322680812486579795, guid: b7c4278f5db97ce4aaa5647059da6520, type: 3}
+  - {fileID: 5802400605516154465, guid: b7c4278f5db97ce4aaa5647059da6520, type: 3}
+  - {fileID: -1819300307145267443, guid: b7c4278f5db97ce4aaa5647059da6520, type: 3}
+  - {fileID: 6032012156095546268, guid: b7c4278f5db97ce4aaa5647059da6520, type: 3}
+  - {fileID: -2815112320737373778, guid: b7c4278f5db97ce4aaa5647059da6520, type: 3}
+  - {fileID: 8303352679016836698, guid: b7c4278f5db97ce4aaa5647059da6520, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Tiilemap_Sheet_Matthew_Madore_1
+  - Tiilemap_Sheet_Matthew_Madore_0
+  - Tiilemap_Sheet_Matthew_Madore_3
+  - Tiilemap_Sheet_Matthew_Madore_2
+  - Tiilemap_Sheet_Matthew_Madore_5
+  - Tiilemap_Sheet_Matthew_Madore_4
+  - Tiilemap_Sheet_Matthew_Madore_7
+  - Tiilemap_Sheet_Matthew_Madore_6
+  - Tiilemap_Sheet_Matthew_Madore_9
+  - Tiilemap_Sheet_Matthew_Madore_8
+  - Tiilemap_Sheet_Matthew_Madore_10
+  - Tiilemap_Sheet_Matthew_Madore_11
+  - Tiilemap_Sheet_Matthew_Madore_12
+  - Tiilemap_Sheet_Matthew_Madore_13
+  - Tiilemap_Sheet_Matthew_Madore_14
+  - Tiilemap_Sheet_Matthew_Madore_15
+  - Tiilemap_Sheet_Matthew_Madore_16
+  - Tiilemap_Sheet_Matthew_Madore_17
+  - Tiilemap_Sheet_Matthew_Madore_18
+  - Tiilemap_Sheet_Matthew_Madore_34
+  - Tiilemap_Sheet_Matthew_Madore_19
+  - Tiilemap_Sheet_Matthew_Madore_29
+  - Tiilemap_Sheet_Matthew_Madore_32
+  - Tiilemap_Sheet_Matthew_Madore_28
+  - Tiilemap_Sheet_Matthew_Madore_33
+  - Tiilemap_Sheet_Matthew_Madore_30
+  - Tiilemap_Sheet_Matthew_Madore_31
+  - Tiilemap_Sheet_Matthew_Madore_21
+  - Tiilemap_Sheet_Matthew_Madore_20
+  - Tiilemap_Sheet_Matthew_Madore_23
+  - Tiilemap_Sheet_Matthew_Madore_22
+  - Tiilemap_Sheet_Matthew_Madore_25
+  - Tiilemap_Sheet_Matthew_Madore_24
+  - Tiilemap_Sheet_Matthew_Madore_27
+  - Tiilemap_Sheet_Matthew_Madore_26
+  m_RenderDataMap: {}
+  m_Tag: New Sprite Atlas
+  m_IsVariant: 0
